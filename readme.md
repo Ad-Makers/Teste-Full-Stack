@@ -30,8 +30,8 @@ Além dos gráficos, também podem ser exibidos dados tabulares complementares, 
 
 No projeto/aplicação descrito, as seguintes tecnologias são utilizadas:
 
-Next.js
-TypeScript
-Node.js
-Express
-Banco de dados á sua escolha
+Next.js 
+TypeScript 
+Node.js 
+Express 
+Banco de dados á sua escolha 
